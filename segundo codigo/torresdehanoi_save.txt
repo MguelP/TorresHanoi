@@ -1,0 +1,11 @@
+3
+3 2 1 
+
+
+Mover disco de Torre 1 a Torre 3
+Mover disco de Torre 1 a Torre 2
+Mover disco de Torre 3 a Torre 2
+Mover disco de Torre 1 a Torre 3
+Mover disco de Torre 2 a Torre 1
+Mover disco de Torre 2 a Torre 3
+Mover disco de Torre 1 a Torre 3
